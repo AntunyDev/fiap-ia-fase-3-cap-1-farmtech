@@ -25,12 +25,12 @@ Nesta fase, os dados coletados pelos sensores agrícolas da Fase 2 foram carrega
 ```text
 pbl/
 └── fase3/
-    ├── README.md
     ├── dados/
     │   └── sensores.csv
+    │   └── dados_ml.csv
     ├── prints/
-    │   └── *.png
-    └── sql/
+    │   └── prints.png
+    └── consultas/
         └── consultas.sql
 ```
 
