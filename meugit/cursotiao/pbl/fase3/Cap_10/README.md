@@ -25,7 +25,8 @@ Nesta atividade (**Fase 3 — Capítulo 10**), foi realizada a análise de uma b
 ```text
 Cap_10/
 ├── Antuny_RM573852_fase3_cap10.ipynb   ← Notebook principal com toda a análise
-└── README.md
+├── produtos_agricolas.csv               ← Dataset utilizado
+└── README.md                            ← Documentação do módulo
 ```
 
 ---
