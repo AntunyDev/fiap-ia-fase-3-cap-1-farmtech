@@ -151,7 +151,7 @@ Identifica amostras onde o solo se encontra em condições ideais e equilibradas
 
 ## 🎥 Vídeo Demonstrativo
 
-📺 [Link do vídeo no YouTube]https://youtu.be/lCSyHjeVvOY)
+📺 [Link do vídeo no YouTube](https://youtu.be/lCSyHjeVvOY)
 
 > O vídeo demonstra o funcionamento do banco de dados, a execução das consultas no
 > Oracle SQL Developer e a organização do repositório GitHub.
