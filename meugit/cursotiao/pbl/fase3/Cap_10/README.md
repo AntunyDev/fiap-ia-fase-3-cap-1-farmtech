@@ -120,7 +120,7 @@ Cada modelo foi avaliado com as seguintes métricas:
 
 ## 🎥 Vídeo Demonstrativo
 
-📺 [Link do vídeo no YouTube](https://youtube.com/seu-link-aqui)
+📺 [Link do vídeo no YouTube](https://youtu.be/po9MXINwsHw)
 
 > O vídeo demonstra a execução do notebook, a análise exploratória dos dados, os modelos de Machine Learning treinados e os resultados obtidos.
 
